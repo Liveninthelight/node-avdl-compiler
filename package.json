@@ -28,13 +28,13 @@
   "devDependencies": {
     "iced-coffee-script": "^108.0.9",
     "iced-test": "0.0.22",
-    "jest": "^25.1.0"
+    "jest": "^30.5.1"
   },
   "dependencies": {
     "avdl2json": "^2.2.5",
     "iced-error": "0.0.9",
     "iced-runtime": "^1.0.3",
-    "lodash": "4.17.15",
+    "lodash": "4.18.1",
     "minimist": "^1.2.0"
   }
 }
